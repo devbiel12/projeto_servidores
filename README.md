@@ -108,3 +108,13 @@ Durante a execução, são exibidos no terminal:
 - NumPy
 - SciPy
 - Scikit-learn
+
+## Licença
+
+Este projeto é de uso educacional, desenvolvido como parte de atividade curricular do curso de Ciências da Computação.
+
+---
+
+<p align="center">
+  Feito por <strong>Gabriel Farias</strong>
+</p>
